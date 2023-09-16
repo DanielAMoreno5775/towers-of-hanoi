@@ -1,4 +1,4 @@
-//by Daniel Moreno in COSC 1437
+//by Daniel Moreno
 
 #include <iostream>
 #include <string>
